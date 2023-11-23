@@ -1,0 +1,7 @@
+<JF052_Rangefinder.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/ARP_HK_Kirishima/JSB706_Kirishima/finder/lods/JF052_Rangefinder_lod1	</parent>
+	<nodefullVisual>	PnFMods/ARP_HK_Kirishima/JSB706_Kirishima/finder/JF052_Rangefinder	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF052_Rangefinder.model>
